@@ -2,7 +2,7 @@
   "name": "react-employee-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Alteredskull/github.io/employee-directory-complete.git",
+  "homepage": "https://Alteredskull/github.io/employee-directory-complete",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.12.0",
