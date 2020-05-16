@@ -1,0 +1,15 @@
+.name-cell {
+    text-transform: capitalize;
+}
+
+body {
+    background-color:black;
+}
+
+a {
+    color: #ffe6ff;
+}
+
+a:hover {
+    color: #ffe6ff;
+}
